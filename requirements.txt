@@ -1,1 +1,10 @@
-
+pyrotgfork
+tgcrypto
+Mukund
+flask
+python-dotenv
+hypercorn
+motor 
+pymongo
+aiohttp
+asyncio
